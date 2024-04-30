@@ -5,6 +5,8 @@ I’m Alexej Strokow, embarking on an exciting journey into the world of Fronten
 - JavaScript
 - React 
 - HTML 
-- CSS 
+- CSS / SCSS
+- Bootstrap
+- Flexbox
 - node.js 
 - Git
