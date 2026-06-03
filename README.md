@@ -11,6 +11,9 @@ Stuff I've built this way:
 - 🧾 an automated invoice generator that spits out ready-made PDFs
 - 💻 a local desktop finance tracker in **Electron**
 
+Most of my repositories are private, but I'm happy to walk you through what I'm
+working on when we get in touch.
+
 ### My stack
 
 **AI & Automation**
