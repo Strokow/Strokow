@@ -27,3 +27,4 @@ working on when we get in touch.
 - HTML · CSS / SCSS · Bootstrap · Flexbox
 - MySQL (basics) · Electron
 - Git / GitHub · VS Code
+.
